@@ -7,7 +7,7 @@ package dot;
 import java.lang.Math;
 /**
  *
- * @author admin
+ * @author dejan
  */
 public class Dot {
         double x;
