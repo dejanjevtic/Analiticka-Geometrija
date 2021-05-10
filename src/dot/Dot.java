@@ -31,6 +31,8 @@ public class Dot {
         Dot tacka = new Dot(7.65,3.42);
         System.out.println(tacka.x);
         System.out.println(tacka.y);
+        Dot tacka2 = new Dot(9.65,1.42);
+        System.out.println(tacka.distanceto(tacka2));
     }
     
 }
