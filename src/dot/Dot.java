@@ -30,6 +30,7 @@ public class Dot {
     public static void main(String[] args) {
         Dot tacka = new Dot(7.65,3.42);
         System.out.println(tacka.x);
+        System.out.println(tacka.y);
     }
     
 }
